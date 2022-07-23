@@ -15,11 +15,6 @@ public enum BeerType {
     IPA("IPA"),
     STOUT("Stout");
 	
-	BeerType(String string) {
-		this.description = "";
-		// TODO Auto-generated constructor stub
-	}
-
 	private final String description;
 
 }
